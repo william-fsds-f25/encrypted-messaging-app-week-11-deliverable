@@ -1,7 +1,7 @@
 Encrypted Messaging Social Media App
 ====================================
 
-Byte Dynamics - Full-Stack Development Week 13 deliverable
+Byte Dynamics - Full-Stack Development Week 11 deliverable
 ----------------------------------------------
 
 System Overview
