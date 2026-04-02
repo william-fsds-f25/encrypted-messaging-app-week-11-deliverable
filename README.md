@@ -92,19 +92,25 @@ Key Point: The server NEVER sees plaintext messages at any point in this process
 
 bash
 
-` cd backend  npm install  node server.js   `
+` 
+cd backend  npm install  node server.js   
+`
 
 **2\. Install Frontend** (in a new terminal)
 
 bash
 
-`   cd frontend  npm install  npx serve public   `
+`   
+cd frontend  npm install  npx serve public   
+`
 
 **3\. Open Browser**
 
 text
 
-`   http://localhost:3000   `
+`   
+http://localhost:3000   
+`
 
 ### Quick Test
 
@@ -116,7 +122,3 @@ text
     
 4.  Start sending encrypted messages
     
-
-### Troubleshooting
-
-IssueSolutionPort 5000 in useChange port in server.js or kill processPort 3000 in useUse npx serve public -p 3001Blank pageOpen http://localhost:3000, not the file directlyBackend errorVisit http://localhost:5000/api/test to verify
